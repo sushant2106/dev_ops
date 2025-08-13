@@ -1,4 +1,4 @@
 lets change 
 and see for will it work 
-lets create merge conflict
-
+I am in master local
+>>>>>>> 8281f56 (change in line 3)
